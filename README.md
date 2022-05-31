@@ -1,7 +1,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
-<img  src="https://i.ibb.co/Np4cvKX/Route-List.png" alt="License">
+<img  src="https://i.ibb.co/Np4cvKX/Route-List.png" id="endpoint" alt="License">
 </p>
 
 ## Bem vindo(a), 
@@ -44,8 +44,24 @@ php -S localhost:8080
 - Solicitando todos o clientes.
     <img  src="https://i.ibb.co/kck7TV3/get-clients.gif" alt="License">
     
+    
+    
+    
 - Adicionando um novo cliente.
-    <img  src="https://i.ibb.co/YjTpW6h/post-Clients.gif" alt="License">
+    <img  src="https://i.ibb.co/B2H5pjY/post-clients-2.gif" alt="License">
+    
+    
+  
+ - Adicionando um novo produto.
+    <img  src="https://i.ibb.co/3dfm3Lx/post-Products.gif" alt="License">
+    
+    
+    
+    
+- Fazendo uma compra de produtos.
+    <img  src="https://i.ibb.co/8Y58cCV/post-Solicits.gif" alt="License">
+    
+### Para manipular os dados de outras formas, confira os endpoints no inicio do <a href="#endpoint"> README.md </a>
 
 ## Tecnologias utilizadas
 
