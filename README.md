@@ -41,6 +41,11 @@ php -S localhost:8080
 ## Utilizando a API
 - Para melhor entendimento do funcionamento da aplicação, sugiro a utilização de uma plataforma de API.
 #### Estarei utilizando o [Insomnia](https://insomnia.rest/)
+- Solicitando todos o clientes.
+    <img  src="https://i.ibb.co/kck7TV3/get-clients.gif" alt="License">
+    
+- Adicionando um novo cliente.
+    <img  src="https://i.ibb.co/YjTpW6h/post-Clients.gif" alt="License">
 
 ## Tecnologias utilizadas
 
