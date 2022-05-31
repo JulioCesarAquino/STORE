@@ -44,7 +44,7 @@ php -S localhost:8080
 
 ## Tecnologias utilizadas
 
-Para criação e utilização desta API, foram utlizadas as seguintes ferramentas! Para controlador [PHP Laravel](https://laravel.com/docs/9.x), para base de dados [MySQL Worckbench](https://www.mysql.com/) e o [Insomnia](https://insomnia.rest/) Para gerenciador de APIs. Dentre outras dependências COMPOSER do laravel.
+Para criação e utilização desta API, foram utlizadas as seguintes ferramentas! Para controlador [PHP Laravel](https://laravel.com/docs/9.x), para base de dados [MySQL Worckbench](https://www.mysql.com/) e o [Insomnia](https://insomnia.rest/) Para gerenciador de APIs. Dentre outras dependências [COMPOSER](https://getcomposer.org/) do laravel.
 
 ## Developed by
 
